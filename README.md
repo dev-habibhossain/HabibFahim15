@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.ibb.co.com/tHxgpdV/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png"  />
+  <img height="" src=""  />
 </div>
 
 ###
