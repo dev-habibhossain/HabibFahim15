@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Habib Hossain and I'm a Frontend Developer from Bangladesh.</h2>
+<h2 align="left">Hi 👋! My name is Habib Hossain, and I'm a Full Stack Developer from Bangladesh.</h2>
 
 ###
 
